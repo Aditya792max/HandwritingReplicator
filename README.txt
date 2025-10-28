@@ -111,10 +111,4 @@ Contributions are welcome! If you’d like to contribute:
 5. Open a Pull Request describing your changes.
    Please ensure your code is well‐documented and tested.
 
-## License
 
-Specify your project license here (e.g., MIT License). If you haven’t chosen a license yet, consider adding a `LICENSE` file.
-
----
-
-If you like, I can generate a detailed “Developer Guide” section (for debugging, extending the framework, dataset creation) as well. Want me to add that?
